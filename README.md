@@ -31,4 +31,4 @@ It identifies the type of element and render the specific Form Element like Inpu
 
 ### Submission of form
 
-On submit of form, it uses FormData Api to collect all the information filled and logs it out.
+On submit of form, it uses FormData Api to collect all the information filled and logs it out. This data can be used to send it to backend.
