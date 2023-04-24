@@ -2,7 +2,7 @@
 
 ### Technologies used -
 
-1. React (vite)
+1. React with Typescript (vite)
 2. Tailwind for styling
 3. Radix UI for switch button
 
